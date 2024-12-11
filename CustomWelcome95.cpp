@@ -10,22 +10,6 @@
 #include "resource.h"
 
 /*
- * Control element IDs
- */
-
-#define IDC_NEXTTIP 16901
-#define IDC_DIDYOUKNOW 16910
-#define IDC_TEXTCONTROL 16908
-#define IDC_TIP 16905
-#define IDC_WHATSNEW 16898
-#define IDC_ONLINEREGISTRATION 16899
-#define IDC_WINDOWSTOUR 16897
-#define IDC_CATALOG 16900
-#define IDC_APPICON 16909
-#define IDC_BITMAP 16906
-#define IDC_CHECKBOX 16903
-
-/*
  * Various strings
  */
 

@@ -1,14 +1,17 @@
-#define IDC_MYICON                      2
-#define IDD_CUSTOMWELCOME95_DIALOG      102
-#define IDS_APP_TITLE                   103
-#define IDD_ABOUTBOX                    103
-#define IDM_ABOUT                       104
-#define IDM_EXIT                        105
-#define IDI_CUSTOMWELCOME95             107
-#define IDC_CUSTOMWELCOME95             109
-#define IDR_MAINFRAME                   128
-#define IDB_BITMAP1                     129
-#define IDB_WELCOME                     129
-#define IDD_WELCOMEBOX                  130
-#define IDC_HIDDENBUTTON                1000
-#define IDC_STATIC                      -1
+/*
+ * Control element IDs
+ */
+#define IDB_WELCOME 129
+#define IDD_WELCOMEBOX 130
+#define IDC_STATIC -1
+#define IDC_NEXTTIP 16901
+#define IDC_DIDYOUKNOW 16910
+#define IDC_TEXTCONTROL 16908
+#define IDC_TIP 16905
+#define IDC_WHATSNEW 16898
+#define IDC_ONLINEREGISTRATION 16899
+#define IDC_WINDOWSTOUR 16897
+#define IDC_CATALOG 16900
+#define IDC_APPICON 16909
+#define IDC_BITMAP 16906
+#define IDC_CHECKBOX 16903
